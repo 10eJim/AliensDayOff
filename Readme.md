@@ -1,3 +1,8 @@
+
+Put reticle over the running alien to initiate animation.
+Click on the jetpack alien to initiate the animation.
+
+
 A basic a-frame page
 
 equirectangular photo is by :
